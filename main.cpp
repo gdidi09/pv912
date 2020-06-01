@@ -2,7 +2,8 @@
 
 user namespace std;
 
-void main()
+int main()
 {
 	cout << "Text";
+	return 0;
 }
