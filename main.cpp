@@ -2,6 +2,11 @@
 
 user namespace std;
 
+class user
+{
+	
+};
+
 int main()
 {
 	cout <<"hi all!"
